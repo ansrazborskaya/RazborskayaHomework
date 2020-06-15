@@ -2,10 +2,6 @@ package com.stormnet.calculator;
 
 public class Calculator {
 
-    public Calculator() {
-
-    }
-
     public double addUpTheNumbers(double a, double b) {
 
         double result = a + b;
