@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Homework testng">
+    <test name="VKmessage">
+    <classes>
+        <class name="com.stormnet.homework.homework1.VkTest"/>
+    </classes>
+</test>
+    <test name="Calculator">
+        <classes>
+            <class name="com.stormnet.homework.homework1.CalculatorTest"/>
+        </classes>
+    </test>
+</suite>
